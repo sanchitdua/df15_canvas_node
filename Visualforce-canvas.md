@@ -66,10 +66,10 @@ and click the **Save** button
 ### **Visualforce page**
 1. In your DE environment click **Your Name | Developer Console**
 2. Select **File | New | Visualforce Page**
-3. For the page name, enter **page_canvas** and click the **OK** button
+3. For the page name, enter **page_Canvas** and click the **OK** button
 4. Immediately above the closing `</apex:page>` tag, add the following markup create a Canvas app:
 
-<apex:canvasApp applicationName="node_canvas" height="400px" width="750px"/> 
+`<apex:canvasApp applicationName="node_canvas" height="400px" width="750px"/>`
 
 
 > The above code snippet is an example of how to display a canvas app on an Account page. The code specifies the size of the canvas app to be 400 pixels high and 750 pixels wide. This examples specifies the canvas app using the applicationName.
