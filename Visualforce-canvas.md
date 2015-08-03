@@ -62,6 +62,7 @@ and click the **Save** button
 ![Canvas App Previewer](Images/out_8.png)
 4. After we click on **Submit** button a chatter feed will be available under the feeds link as well as the file will be added to the Node JS server under the folder **My Uploads** with the description you added.
 ![Canvas App Previewer](Images/out_9.png)
+
 ### **Visualforce page**
 1. In your DE environment click **Your Name | Developer Console**
 2. Select **File | New | Visualforce Page**
